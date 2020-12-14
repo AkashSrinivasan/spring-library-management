@@ -1,0 +1,6 @@
+00:38:52,423 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer for API "JDO"
+00:38:52,872 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 3.1.1) : Enhancement of classes
+00:38:53,300 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\Users\akash\eclipse-workspace\workspace\spring-mvc-lm\target\springmvc-0.1.0-SNAPSHOT\WEB-INF\classes\com\home\model\Book.class" with enhanced definition
+00:38:53,308 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\Users\akash\eclipse-workspace\workspace\spring-mvc-lm\target\springmvc-0.1.0-SNAPSHOT\WEB-INF\classes\com\home\model\Staff.class" with enhanced definition
+00:38:53,318 (main) INFO  [DataNucleus.Enhancer] - Writing class file "C:\Users\akash\eclipse-workspace\workspace\spring-mvc-lm\target\springmvc-0.1.0-SNAPSHOT\WEB-INF\classes\com\home\model\Student.class" with enhanced definition
+00:38:53,336 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 3 classes. Timings : input=346 ms, enhance=100 ms, total=446 ms. Consult the log for full details
